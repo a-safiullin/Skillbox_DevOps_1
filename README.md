@@ -7,5 +7,5 @@ docker-compose - version 1.25.4, build 8d51620a
 
 **Build:**  
 docker-compose build  
-RUN:  
+**RUN:**  
 docker run -p 3000:3000 -it <container_id>  
