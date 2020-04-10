@@ -10,3 +10,8 @@ docker-compose build
 
 **RUN:**  
 docker run -p 3000:3000 -it <container_id>  
+
+yarn install
+yarn test
+yarn build
+yarn start
